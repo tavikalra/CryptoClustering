@@ -1,1 +1,3 @@
 # CryptoClustering
+
+This repository contains a Jupyter Notebook (`Crypto_Clustering.ipynb`) that explores unsupervised learning techniques, specifically K-means clustering and Principal Component Analysis (PCA), to analyze cryptocurrency price changes.  The goal is to predict whether cryptocurrencies are more affected by 24-hour or 7-day price fluctuations.  The notebook includes data loading, preprocessing, model building, visualization, and analysis of results.
